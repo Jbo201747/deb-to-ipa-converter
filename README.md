@@ -35,3 +35,5 @@
 # License
 
 Deb to IPA is licensed under the BSD-3-Clause license, and can be found [here](https://github.com/itsnebulalol/deb-to-ipa/blob/main/LICENSE).
+
+To anyone looking at this, I personally am just using this to try to get apps running on my trollstore phone. 14.8.1 instead of 14.8, unfortunately...
